@@ -40,6 +40,7 @@ This mod is not compatible with any mod that alters any of the following files:
 - `romfs/Pack/Actor/Armor_1043_Lower.pack.zs`.
 - `romfs/Pack/Actor/Armor_1043_Upper.pack.zs`.
 - `romfs/Pack/Actor/Armor_1044_Lower.pack.zs`.
+- `romfs/RSDB/PouchActorInfo.Product.[version].rstbl.byml.zs`.
 
 ## Changes
 - Archaic Tunic - 28 Defense
